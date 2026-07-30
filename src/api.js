@@ -60,10 +60,21 @@ export async function login(username, password) {
     });
     
     let data;
-    try {
-      data = await res.json();
-    } catch {
-      data = { message: `Backend returned invalid response format (HTTP ${res.status})` };
+    const contentType = res.headers.get('content-type') || '';
+    if (contentType.includes('application/json')) {
+      try {
+        data = await res.json();
+      } catch {
+        data = { message: `Failed to parse backend JSON response (HTTP ${res.status})` };
+      }
+    } else {
+      const text = await res.text();
+      console.error(`[API Error Body HTTP ${res.status}]:`, text);
+      data = {
+        message: res.status === 500
+          ? "Backend Error (HTTP 500): DATABASE_URL missing or disconnected in Vercel project settings."
+          : `Backend returned non-JSON response (HTTP ${res.status})`
+      };
     }
 
     console.log(`[API Response] /login HTTP ${res.status}:`, data);
