@@ -24,8 +24,9 @@ JWT_SECRET = os.environ.get("JWT_SECRET") or SECRET_KEY
 FLASK_ENV = os.environ.get("FLASK_ENV", "production")
 
 # Database & Supabase Configuration
-DATABASE_URL = os.environ.get("DATABASE_URL")
-SUPABASE_URL = os.environ.get("SUPABASE_URL")
+DEFAULT_SUPABASE_URL = "postgresql://postgres.uwvlmberqqjryhewsvds:Paviakash37@aws-1-ap-south-1.pooler.supabase.com:6543/postgres?sslmode=require"
+DATABASE_URL = os.environ.get("DATABASE_URL") or DEFAULT_SUPABASE_URL
+SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://uwvlmberqqjryhewsvds.supabase.co")
 SUPABASE_ANON_KEY = os.environ.get("SUPABASE_ANON_KEY") or os.environ.get("SUPABASE_KEY")
 SUPABASE_SERVICE_ROLE_KEY = os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
 

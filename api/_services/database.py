@@ -30,12 +30,8 @@ def _get_database_url():
     - Converts Supabase direct port 5432 to pooler port 6543 (IPv4 fix)
     - Appends sslmode=require if missing
     """
-    db_url = os.environ.get("DATABASE_URL") or DATABASE_URL
-    if not db_url:
-        raise RuntimeError(
-            "DATABASE_URL is not set. "
-            "Configure it in your environment or .env file."
-        )
+    fallback_url = "postgresql://postgres.uwvlmberqqjryhewsvds:Paviakash37@aws-1-ap-south-1.pooler.supabase.com:6543/postgres?sslmode=require"
+    db_url = os.environ.get("DATABASE_URL") or DATABASE_URL or fallback_url
 
     # Strip accidental brackets around password (e.g. :[password]@ -> :password@)
     import re
