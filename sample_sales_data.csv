@@ -1,0 +1,61 @@
+Date,Invoice Number,Customer Name,Product,Category,Quantity,Price,Total,Profit
+2024-11-23,INV-877572,Flipkart Wholesale,Smart Watch Pro,Electronics,1,12999.0,12999.0,3899.0
+2024-05-05,INV-872246,Croma Electronics,HP Pavilion 15,Electronics,1,54999.0,54999.0,10999.0
+2024-12-12,INV-719176,Infosys IT,USB-C Hub Adapter,Accessories,2,2499.0,4998.0,1798.0
+2024-01-17,INV-329258,Amazon India,"Samsung 27"" Monitor",Electronics,1,18999.0,18999.0,4499.0
+2024-09-15,INV-688508,Amazon India,Epson EcoTank L3250,Office Equipment,1,13999.0,13999.0,3499.0
+2024-11-28,INV-331148,Wipro Ltd,USB-C Hub Adapter,Accessories,7,2499.0,17493.0,6293.0
+2024-10-28,INV-895667,Vijay Sales,iPhone 15,Electronics,1,79999.0,79999.0,13999.0
+2024-12-23,INV-391369,Vijay Sales,Sony WH-1000XM5,Accessories,3,29999.0,89997.0,23997.0
+2024-04-20,INV-197251,Infosys IT,Google Pixel 8,Electronics,1,52999.0,52999.0,10999.0
+2024-02-19,INV-733052,Flipkart Wholesale,"iPad Pro 12.9""",Electronics,2,112999.0,225998.0,45998.0
+2024-01-23,INV-230889,Infosys IT,Mechanical Keyboard,Accessories,9,4999.0,44991.0,16191.0
+2024-02-10,INV-969693,Tech Mahindra,USB-C Hub Adapter,Accessories,5,2499.0,12495.0,4495.0
+2024-07-04,INV-838797,Croma Electronics,HP LaserJet Pro,Office Equipment,2,21999.0,43998.0,10998.0
+2024-01-24,INV-183667,Amazon India,HP Pavilion 15,Electronics,2,54999.0,109998.0,21998.0
+2024-02-21,INV-575435,TCS Procurement,Samsung Galaxy Tab S9,Electronics,2,74999.0,149998.0,33998.0
+2024-03-24,INV-319684,Flipkart Wholesale,"iPad Pro 12.9""",Electronics,2,112999.0,225998.0,45998.0
+2024-12-25,INV-765822,Vijay Sales,Logitech Webcam C920,Electronics,10,7499.0,74990.0,18990.0
+2024-09-30,INV-584714,Infosys IT,HP Pavilion 15,Electronics,1,54999.0,54999.0,10999.0
+2024-05-18,INV-817870,TCS Procurement,USB-C Hub Adapter,Accessories,4,2499.0,9996.0,3596.0
+2024-01-29,INV-944151,TCS Procurement,HP Pavilion 15,Electronics,1,54999.0,54999.0,10999.0
+2024-07-24,INV-321231,Tech Mahindra,iPhone 15,Electronics,1,79999.0,79999.0,13999.0
+2024-06-10,INV-623481,Infosys IT,ThinkPad X1 Carbon,Electronics,3,74999.0,224997.0,44997.0
+2024-11-25,INV-377746,Vijay Sales,Mechanical Keyboard,Accessories,3,4999.0,14997.0,5397.0
+2024-05-06,INV-375504,Tech Mahindra,USB-C Hub Adapter,Accessories,9,2499.0,22491.0,8091.0
+2024-08-07,INV-479580,Amazon India,HP LaserJet Pro,Office Equipment,4,21999.0,87996.0,21996.0
+2024-03-11,INV-195325,Reliance Digital,JBL Flip 6 Speaker,Accessories,8,9999.0,79992.0,22392.0
+2024-02-26,INV-267753,Infosys IT,MacBook Air M2,Electronics,3,99999.0,299997.0,53997.0
+2024-11-01,INV-500156,Tech Mahindra,Logitech Webcam C920,Electronics,7,7499.0,52493.0,13293.0
+2024-08-27,INV-680099,Reliance Digital,JBL Flip 6 Speaker,Accessories,5,9999.0,49995.0,13995.0
+2024-12-14,INV-887352,Flipkart Wholesale,Smart Watch Pro,Electronics,5,12999.0,64995.0,19495.0
+2024-11-24,INV-407757,Infosys IT,Google Pixel 8,Electronics,1,52999.0,52999.0,10999.0
+2024-03-21,INV-857168,Flipkart Wholesale,Mechanical Keyboard,Accessories,1,4999.0,4999.0,1799.0
+2024-09-13,INV-211579,Flipkart Wholesale,Dell XPS 15,Electronics,3,89999.0,269997.0,53997.0
+2024-11-23,INV-308573,Vijay Sales,JBL Flip 6 Speaker,Accessories,10,9999.0,99990.0,27990.0
+2024-07-10,INV-916449,HCL Technologies,Dell XPS 15,Electronics,3,89999.0,269997.0,53997.0
+2024-01-01,INV-612340,Reliance Digital,Epson EcoTank L3250,Office Equipment,3,13999.0,41997.0,10497.0
+2024-02-27,INV-351083,Reliance Digital,"iPad Pro 12.9""",Electronics,2,112999.0,225998.0,45998.0
+2024-05-03,INV-189814,Wipro Ltd,HP LaserJet Pro,Office Equipment,1,21999.0,21999.0,5499.0
+2024-02-05,INV-234628,Wipro Ltd,USB-C Hub Adapter,Accessories,3,2499.0,7497.0,2697.0
+2024-10-08,INV-653306,Tech Mahindra,Dell XPS 15,Electronics,2,89999.0,179998.0,35998.0
+2024-08-04,INV-891952,Amazon India,ThinkPad X1 Carbon,Electronics,3,74999.0,224997.0,44997.0
+2024-12-31,INV-804314,TCS Procurement,Samsung Galaxy S24,Electronics,2,74999.0,149998.0,33998.0
+2024-08-12,INV-226882,Amazon India,JBL Flip 6 Speaker,Accessories,8,9999.0,79992.0,22392.0
+2024-04-25,INV-122056,Tech Mahindra,Logitech Webcam C920,Electronics,6,7499.0,44994.0,11394.0
+2024-10-10,INV-330914,Reliance Digital,HP Pavilion 15,Electronics,3,54999.0,164997.0,32997.0
+2024-02-06,INV-170674,Reliance Digital,LG UltraWide Monitor,Electronics,2,24999.0,49998.0,11598.0
+2024-06-18,INV-349565,Flipkart Wholesale,Logitech Webcam C920,Electronics,9,7499.0,67491.0,17091.0
+2024-12-08,INV-665427,Vijay Sales,Logitech MX Master 3S,Accessories,4,8999.0,35996.0,9996.0
+2024-10-19,INV-354801,Wipro Ltd,HP LaserJet Pro,Office Equipment,4,21999.0,87996.0,21996.0
+2024-07-27,INV-201639,Infosys IT,ThinkPad X1 Carbon,Electronics,1,74999.0,74999.0,14999.0
+2024-06-30,INV-589710,Reliance Digital,Sony WH-1000XM5,Accessories,4,29999.0,119996.0,31996.0
+2024-12-10,INV-522179,TCS Procurement,Smart Watch Pro,Electronics,1,12999.0,12999.0,3899.0
+2024-02-25,INV-299448,HCL Technologies,HP Pavilion 15,Electronics,1,54999.0,54999.0,10999.0
+2024-08-17,INV-292401,Flipkart Wholesale,MacBook Air M2,Electronics,2,99999.0,199998.0,35998.0
+2024-08-24,INV-564656,HCL Technologies,HP Pavilion 15,Electronics,1,54999.0,54999.0,10999.0
+2024-02-20,INV-976638,Reliance Digital,LG UltraWide Monitor,Electronics,5,24999.0,124995.0,28995.0
+2024-02-17,INV-526156,Wipro Ltd,HP Pavilion 15,Electronics,1,54999.0,54999.0,10999.0
+2024-09-03,INV-161483,Vijay Sales,ThinkPad X1 Carbon,Electronics,2,74999.0,149998.0,29998.0
+2024-07-13,INV-378085,Wipro Ltd,"Samsung 27"" Monitor",Electronics,4,18999.0,75996.0,17996.0
+2024-05-26,INV-794022,Wipro Ltd,Sony WH-1000XM5,Accessories,5,29999.0,149995.0,39995.0

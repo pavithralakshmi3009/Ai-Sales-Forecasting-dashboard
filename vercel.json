@@ -1,0 +1,17 @@
+{
+  "build": {
+    "env": {
+      "ENABLE_UV": "0"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

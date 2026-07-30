@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+psycopg2-binary
+PyJWT
+openpyxl
+reportlab
+gunicorn
+python-dotenv

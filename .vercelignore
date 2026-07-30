@@ -1,0 +1,15 @@
+.vercel/
+node_modules/
+temp_deps/
+.git/
+.venv/
+env/
+__pycache__/
+*.pyc
+web_app/
+ai dashboard/
+dataset/
+*.ipynb
+.ipynb_checkpoints/
+train_model.py
+*.csv

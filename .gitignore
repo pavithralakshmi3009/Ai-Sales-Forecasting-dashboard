@@ -1,0 +1,42 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local sqlite databases (legacy)
+*.db
+
+# Temporary generated reports
+*.pdf
+*.xlsx
+temp_sales_report.*
+Sales_Report.*
+
+# Environment and IDE folders
+.gemini/
+.idea/
+.vscode/
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+dist/
+temp_deps/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.vercel
+.env
+.env.local
+.env.production
+!.env.example
